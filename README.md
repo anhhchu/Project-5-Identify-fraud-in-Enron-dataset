@@ -1,6 +1,11 @@
 # Identify-fraud-in-Enron-dataset
 Classified person-of-interest from 144 employees in Enron dataset using SKLearn in Python 
 
+##File arrangement 
+Poi_id.py is the source code <br>
+tester.py is the test code to return test score <br>
+Project5.pdf is the summary file <br>
+
 ##Project Overview
 
 In this project, you will play detective, and put your machine learning skills to use by building an algorithm to identify Enron Employees who may have committed fraud based on the public Enron financial and email dataset.
@@ -24,7 +29,4 @@ Compare the performance of machine learning algorithms
 Tune machine learning algorithms for maximum performance
 Communicate your machine learning algorithm results clearly
 
-##File arrangement 
-Poi_id.py is the source code <br>
-tester.py is the test code to return test score <br>
-Project5.pdf is the summary file <br>
+
